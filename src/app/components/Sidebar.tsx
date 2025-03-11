@@ -15,8 +15,8 @@ const navigation: NavItem[] = [
   { name: "Devices", href: "/devices", icon: "📱" },
   { name: "Alerts", href: "/alerts", icon: "🔔" },
   { name: "Maps", href: "/maps", icon: "🗺️" },
-  { name: "Reports", href: "/reports", icon: "📝" },
-  { name: "Settings", href: "/settings", icon: "⚙️" },
+  // { name: "Reports", href: "/reports", icon: "📝" },
+  // { name: "Settings", href: "/settings", icon: "⚙️" },
 ];
 
 export default function Sidebar() {
